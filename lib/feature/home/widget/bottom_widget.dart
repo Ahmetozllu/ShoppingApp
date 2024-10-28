@@ -19,7 +19,6 @@ class _BottomWidgetState extends State<BottomWidget> {
   // Sayfa listesi
   final List<Widget> _pages = [
     const HomeView(),
-    const SearchView(),
     const FavoriteView(),
   ];
 
