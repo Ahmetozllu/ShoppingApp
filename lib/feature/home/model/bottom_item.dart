@@ -16,7 +16,7 @@ class BottomItem {
 
 List<BottomItem> bottomTitles = [
   BottomItem(icon: const Icon(Icons.store), iconName: 'Store',),
-  BottomItem(icon: const Icon(Icons.search), iconName: 'Search'),
+  //BottomItem(icon: const Icon(Icons.search), iconName: 'Search'),
   BottomItem(icon: const Icon(Icons.favorite), iconName: 'Favorites'),
 ];
 
